@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "weixin",
+    "script": "www/production.js",
+    "cwd": "/Users/apple/webplus/SVN/pad_web_group_website/trunk/Project/weixin",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
