@@ -1,4 +1,4 @@
-# 基于NodeJS开发的微信API
+# 基于NodeJS的微信公众号开发实践
 
 Application created by [ThinkJS](http://www.thinkjs.org)
 
